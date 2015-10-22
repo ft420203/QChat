@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LoginForm.qml</file>
+        <file>ChatForm.qml</file>
+    </qresource>
+</RCC>
